@@ -1,0 +1,3 @@
+/mnt/c/Github/Eksam prep/array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Github/Eksam prep/array/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Github/Eksam prep/array/cmake-build-debug/CMakeFiles/array.dir

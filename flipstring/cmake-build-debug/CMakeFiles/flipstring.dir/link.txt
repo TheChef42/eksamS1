@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/flipstring.dir/main.c.o  -o flipstring 

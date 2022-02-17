@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/prime.dir/main.c.o CMakeFiles/prime.dir/functions.c.o  -o prime 

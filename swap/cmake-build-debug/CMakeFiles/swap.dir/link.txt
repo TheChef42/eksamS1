@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/swap.dir/main.c.o CMakeFiles/swap.dir/functions.c.o  -o swap 

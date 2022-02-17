@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Github/Eksam prep/untitled2/functions.c
+functions.h
+/mnt/c/Github/Eksam prep/untitled2/functions.h
+
+/mnt/c/Github/Eksam prep/untitled2/functions.h
+stdio.h
+-
+
+/mnt/c/Github/Eksam prep/untitled2/main.c
+stdio.h
+-
+functions.h
+/mnt/c/Github/Eksam prep/untitled2/functions.h
+

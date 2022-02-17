@@ -1,0 +1,3 @@
+/mnt/c/Github/Eksam prep/prime/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Github/Eksam prep/prime/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Github/Eksam prep/prime/cmake-build-debug/CMakeFiles/prime.dir

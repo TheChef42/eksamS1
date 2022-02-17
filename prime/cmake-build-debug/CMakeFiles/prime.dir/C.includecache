@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Github/Eksam prep/prime/functions.c
+functions.h
+/mnt/c/Github/Eksam prep/prime/functions.h
+
+/mnt/c/Github/Eksam prep/prime/functions.h
+stdio.h
+/mnt/c/Github/Eksam prep/prime/stdio.h
+

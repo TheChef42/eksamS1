@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/dynamic.dir/main.c.o CMakeFiles/dynamic.dir/functions.c.o  -o dynamic 

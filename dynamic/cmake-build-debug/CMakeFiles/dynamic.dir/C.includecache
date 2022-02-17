@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Github/Eksam prep/dynamic/main.c
+stdio.h
+-
+stdlib.h
+/mnt/c/Github/Eksam prep/dynamic/stdlib.h
+
